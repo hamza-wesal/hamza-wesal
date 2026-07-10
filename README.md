@@ -57,5 +57,4 @@ Shell:      bash / python3
 
 - Robotics focus: perception (OpenCV, PyTorch) through to control (ROS2)
 - Researching WiFi CSI sensing
-- Building for **ABU Robocon 2026**
 - Building a coaxial swerve-drive robot on ROS2 Humble, sim-first in RViz before hardware bring-up on a Raspberry Pi
