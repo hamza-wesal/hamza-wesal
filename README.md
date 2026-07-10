@@ -28,7 +28,7 @@
 hamza-wesal@github
 ------------------
 OS:         IIT Delhi (B.Tech)
-Domain:     Robotics &amp; Embedded Systems
+Domain:     Robotics 
 Languages:  Python
 Frameworks: ROS2,
 Currently:  WiFi CSI sensing research
