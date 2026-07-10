@@ -29,10 +29,10 @@ hamza-wesal@github
 ------------------
 OS:         IIT Delhi (B.Tech)
 Domain:     Robotics &amp; Embedded Systems
-Languages:  Python, C++
-Frameworks: ROS2, OpenCV, PyTorch
+Languages:  Python
+Frameworks: ROS2,
 Currently:  WiFi CSI sensing research
-Building:   ABU Robocon 2026 bot
+Building:   Swerve Modules
 Shell:      bash / python3
 </pre>
 
